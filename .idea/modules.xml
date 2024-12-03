@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/QualityAssurance.iml" filepath="$PROJECT_DIR$/.idea/QualityAssurance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greetingTask.iml" filepath="$PROJECT_DIR$/greetingTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/greetingTask.main.iml" filepath="$PROJECT_DIR$/.idea/modules/greetingTask.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/greetingTask.test.iml" filepath="$PROJECT_DIR$/.idea/modules/greetingTask.test.iml" />
+    </modules>
+  </component>
+</project>
